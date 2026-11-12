@@ -58,10 +58,11 @@ Then open **Hand Volume Control** from your app menu. The volume uses `pactl` (P
 | Pinch thumb + index finger together | Volume down |
 | Spread them apart | Volume up |
 | Fold your little finger (pinky) down | Lock the volume |
+| `C` | Switch camera mode (if the picture looks garbled or wrong) |
 | `F` | Fullscreen on/off |
 | `Q` or `Esc` | Quit |
 
-The window can be resized. You need a webcam; close Zoom, Teams or other camera apps first if the camera doesn't open.
+The window can be resized. You need a webcam; close Zoom, Teams or other camera apps first if the camera doesn't open. The app picks a working camera mode by itself and reconnects if the camera drops out; if the picture still looks wrong, press `C`.
 
 ## Updates
 
